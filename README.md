@@ -3,7 +3,7 @@
 ## नमस्ते 🙏, I'm George Pacheco!
 ## Smart Contract Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-george-pacheco-blue)](https://www.linkedin.com/in/LinkedIn-george-pacheco-eth/)
+[![](https://img.shields.io/badge/LinkedIn-george-pacheco-blue)](https://www.linkedin.com/in/george-pacheco-lebeque-eth/)
 [![](https://img.shields.io/badge/Gmail-pgeorgealberto@gmail.com-red)](mailto:pgeorgealberto@gmail.com)
 
 
@@ -15,12 +15,11 @@ const ashraf = {
     askMeAbout: ["Blockchain", "Ethereum", "Smart Contract"],
     technologies:{
         language: ["Solidity", "C++"],
-        framework: ["Truffle", "Ganache"],
+        framework: ["Truffle", "Ganache","Remix-Etereum IDE"],
         Testing: ["Mocha","Chai"],
-        Librery: ["Oppenzepelin","web3.js"],
+        Library: ["Oppenzepelin","web3.js"],
         Testnet: ["Infura","Alchemy","Ganache.."],
-        devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
+        
     },
     Expectation: ["Further develop my skills", 
      "Add value to the company", "Grow up together", "Teach new developers"],
