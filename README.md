@@ -3,7 +3,7 @@
 ## नमस्ते 🙏, I'm George Pacheco!
 ## Smart Contract Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-george-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
+[![](https://img.shields.io/badge/LinkedIn-george-blue)](https://www.linkedin.com/in/george-pacheco-lebeque-eth/)
 [![](https://img.shields.io/badge/LinkedIn-george-pacheco-lebeque-eth-blue)](https://www.linkedin.com/in/george-pacheco-lebeque-eth/)
 [![](https://img.shields.io/badge/Gmail-pgeorgealberto@gmail.com-red)](mailto:pgeorgealberto@gmail.com)
 
