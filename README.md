@@ -12,11 +12,11 @@
 
 ```solidity
 const George = {
-    pronouns: "He" | "Him",
+    pronouns: "He" / "Him",
     askMeAbout: ["Blockchain", "Ethereum", "Smart Contract"],
     technologies:{
         language: ["Solidity", "C++","TypeScript","Java"],
-        framework: ["Nest.js","Foundry", "Infura","Remix-Etereum IDE","Nest.js","MySQL"],
+        framework: ["Foundry", "Infura","Remix-Etereum IDE","Nest.js","MySQL"],
         Testing: ["Foundry.test","Anvil","Sepolia"],
         Library: ["OpenZeppelin","Ethers.js","PrismaORM"],
         Testnet: ["Infura","Alchemy","Anvil.."],
