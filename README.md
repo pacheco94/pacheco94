@@ -16,9 +16,9 @@ const George = {
     askMeAbout: ["Blockchain", "Ethereum", "Smart Contract"],
     technologies:{
         language: ["Solidity", "C++","TypeScript","Java"],
-        framework: ["Foundry", "Infura","Remix-Etereum IDE","nest.js","MySQL"],
-        Testing: ["Foundry.test,Anvil,Sepolia"],
-        Library: ["OppenZeppelin","ether.js"],
+        framework: ["Nest.js","Foundry", "Infura","Remix-Etereum IDE","Nest.js","MySQL"],
+        Testing: ["Foundry.test","Anvil","Sepolia"],
+        Library: ["OpenZeppelin","Ethers.js","PrismaORM"],
         Testnet: ["Infura","Alchemy","Anvil.."],
         
     },
