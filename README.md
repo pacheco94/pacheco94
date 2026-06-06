@@ -11,18 +11,18 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```solidity
-const ashraf = {
+const George = {
     pronouns: "He" | "Him",
     askMeAbout: ["Blockchain", "Ethereum", "Smart Contract"],
     technologies:{
-        language: ["Solidity", "C++"],
-        framework: ["Truffle", "Ganache","Remix-Etereum IDE"],
-        Testing: ["Mocha","Chai"],
-        Library: ["Oppenzepelin","web3.js"],
-        Testnet: ["Infura","Alchemy","Ganache.."],
+        language: ["Solidity", "C++","TypeScript","Java"],
+        framework: ["Foundry", "Infura","Remix-Etereum IDE","nest.js","MySQL"],
+        Testing: ["Foundry.test,Anvil,Sepolia"],
+        Library: ["OppenZeppelin","ether.js"],
+        Testnet: ["Infura","Alchemy","Anvil.."],
         
     },
-    Expectation: ["Further develop my skills", 
+    Expectation: ["To further develop my skills as a blockchain backend developer", 
      "Add value to the company", "Grow up together", "Teach new developers"],
 }
 ```
